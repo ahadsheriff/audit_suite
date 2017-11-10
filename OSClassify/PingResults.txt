@@ -1,0 +1,41 @@
+PING 127.0.0.1 (127.0.0.1): 56 data bytes
+64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.043 ms
+
+--- 127.0.0.1 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.043/0.043/0.043/0.000 msPING 129.21.22.196 (129.21.22.196): 56 data bytes
+64 bytes from 129.21.22.196: icmp_seq=0 ttl=61 time=2.763 ms
+
+--- 129.21.22.196 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.763/2.763/2.763/0.000 msPING 129.21.37.59 (129.21.37.59): 56 data bytes
+64 bytes from 129.21.37.59: icmp_seq=0 ttl=63 time=2.037 ms
+
+--- 129.21.37.59 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.037/2.037/2.037/0.000 msPING 129.21.37.60 (129.21.37.60): 56 data bytes
+64 bytes from 129.21.37.60: icmp_seq=0 ttl=63 time=2.482 ms
+
+--- 129.21.37.60 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.482/2.482/2.482/0.000 msPING 129.21.37.61 (129.21.37.61): 56 data bytes
+64 bytes from 129.21.37.61: icmp_seq=0 ttl=63 time=3.945 ms
+
+--- 129.21.37.61 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.945/3.945/3.945/0.000 msPING 129.21.37.58 (129.21.37.58): 56 data bytes
+64 bytes from 129.21.37.58: icmp_seq=0 ttl=63 time=2.770 ms
+
+--- 129.21.37.58 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.770/2.770/2.770/0.000 msPING 129.21.37.50 (129.21.37.50): 56 data bytes
+64 bytes from 129.21.37.50: icmp_seq=0 ttl=63 time=2.218 ms
+
+--- 129.21.37.50 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 2.218/2.218/2.218/0.000 msPING 129.21.37.57 (129.21.37.57): 56 data bytes
+64 bytes from 129.21.37.57: icmp_seq=0 ttl=63 time=3.266 ms
+
+--- 129.21.37.57 ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 3.266/3.266/3.266/0.000 ms
